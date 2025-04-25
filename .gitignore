@@ -1,0 +1,66 @@
+# .NET Core
+bin/
+obj/
+out/
+
+# User-specific files
+.idea/
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.vshost.*
+.vs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET Core CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS for Mac
+.vscode/
+
+# .NET Core Build Output
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]istro/
+[Dd]ebugFinal/
+[Dd]ebugFinalPublic/
+out/
+
+# ASP.NET Core
+wwwroot/
+node_modules/
+
+# Entity Framework
+App_Data/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Log files
+logs/
+
+# Environment files
+.env
+*.user
+*.userosscache
+*.suo
+*.userprefs
